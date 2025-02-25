@@ -1,5 +1,5 @@
 # Saildrone-ADCP-Measurements-for-Submesoscale-Studies
-This repository contains code, and notebooks for the study 'Acoustic Doppler Current Profiler Measurements from Saildrones with Applications to Submesoscale Studies' by [P. Bhuyan](https://pocean23.github.io), [C. B. Rocha](https://cesar-rocha.github.io), [L. Romero](https://airsealab.com/authors/leonel/), and [J. T. Farrar](https://www2.whoi.edu/staff/jfarrar/) (accepted with minor revisions in J.TECH). 
+This repository contains code, and notebooks for the study 'Acoustic Doppler Current Profiler Measurements from Saildrones with Applications to Submesoscale Studies' by [P. Bhuyan](https://pocean23.github.io), [C. B. Rocha](https://cesar-rocha.github.io), [L. Romero](https://airsealab.com/authors/leonel/), and [J. T. Farrar](https://www2.whoi.edu/staff/jfarrar/) (accepted with major revisions in J.TECH). 
 
 # Abstract
 Characterizing submesoscale ocean processes requires high-resolution observations in both space O(1 km) and time O(1 hr).  
