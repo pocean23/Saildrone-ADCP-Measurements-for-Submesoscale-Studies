@@ -15,3 +15,7 @@ We investigate the uncertainty of submesoscale current gradients derived from Sa
 
 The methodologies we developed to ascertain the optimal averaging window are versatile and applicable to other uncrewed surface vehicles (USV) or multiple-ship arrays.
 
+# SIGNIFICANCE STATEMENT
+
+Submesoscale currents, spanning from a few hundred meters to several kilometers and lasting from hours to weeks, play a key role in transferring energy and redistributing water properties, influencing air-sea interactions and shaping marine ecosystems. However, observing these currents is challenging. Saildrone, an innovative platform, collects synchronous oceanic and atmospheric data, including ocean currents, but assessing and refining this data is essential for studying submesoscale processes. In this paper, we assess the ocean current measurements from Saildrone and develop methods to characterize noise in the data. We then use this improved data to estimate the uncertainty in the current measurements and their gradients, helping us determine the reliability of the data for analyzing submesoscale flow characteristics. 
+
