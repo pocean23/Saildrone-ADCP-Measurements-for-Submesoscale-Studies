@@ -19,3 +19,15 @@ The methodologies we developed to ascertain the optimal averaging window are ver
 
 Submesoscale currents, spanning from a few hundred meters to several kilometers and lasting from hours to weeks, play a key role in transferring energy and redistributing water properties, influencing air-sea interactions and shaping marine ecosystems. However, observing these currents is challenging. Saildrone, an innovative platform, collects synchronous oceanic and atmospheric data, including ocean currents, but assessing and refining this data is essential for studying submesoscale processes. In this paper, we assess the ocean current measurements from Saildrone and develop methods to characterize noise in the data. We then use this improved data to estimate the uncertainty in the current measurements and their gradients, helping us determine the reliability of the data for analyzing submesoscale flow characteristics. 
 
+\acknowledgments
+We thank the S-MODE Science Team for helpful discussions. Saildrone data were collected as part of the Submesoscale Ocean Dynamics Experiment, which is supported by the National Aeronautics and Space Administration (NASA Research Announcement NNH17ZDA001N-EVS3). The analysis of Saildrone data is being supported by the National Science Foundation (NSF award 2146729), São Paulo Research Foundation (FAPESP award 2023/10506-0) and Instituto Serrapilheira (SERRAPILHEIRA award 2211-41837).  
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DATA AVAILABILITY STATEMENT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 
+%
+## Datastatement
+S-MODE Saildrone and R/V \textit{Oceanus} data are freely available at
+https://podaac.jpl.nasa.gov/S-MODE.
